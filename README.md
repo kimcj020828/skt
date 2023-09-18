@@ -15,7 +15,7 @@ sk Telecom AI Agent 서비스 Backend 개발자 준비
 * Spring 기반 RESTful API 설계/개발/운영 경험
 * RDBMS(MySQL), NoSQL(Mongo), ## Redis ## , ## Kafka ## 를 이용한 서비스 개발 경험
 * Micro Service Architecture 플랫폼 설계/개발/운영 경험
-* ## Reactive Programming(WebFlux)에 대한 이해와 서비스 개발 경험 ## 
+* ## Reactive Programming(WebFlux)에 대한 이해와 서비스 개발 경험 ## https://devmoony.tistory.com/174
 * 코드 리뷰에 대한 열린 마음과 신규 기술 도입/적용에 대해 적극적인 자세
 
 ------- 자격요건 ------- 
