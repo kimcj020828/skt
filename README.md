@@ -29,3 +29,6 @@ sk Telecom AI Agent 서비스 Backend 개발자 준비
 * 크고 작은 다양한 장애 처리 경험
 * Git, GoCD, Jenkins, ## Ansible ## 등을 이용한 DevOps 경험  
 * ## 캘린더 CalDAV 프로토콜 개발 경험 ## 
+
+------- 직무 ------- 
+https://careers.sktelecom.com/skLearning/preview?index=3
